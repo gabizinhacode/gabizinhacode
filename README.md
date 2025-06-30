@@ -33,4 +33,17 @@ Participo do Clube de Desbravadores, onde aprendi a importância do trabalho em 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
     />
  <img
- >
+     />
+<img
+    align="left"
+    alt="python"
+    title="python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    />
+      <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+      width="30" 
+      />
+      
