@@ -1,4 +1,4 @@
-## Gabriela Santos👩🏼‍💻
+## 👩🏼‍💻 Gabriela Santos
 
 Me chamo Gabriela Pereira dos Santos, tenho 18 anos e sou natural de Campinas - SP. Estou cursando Análise e Desenvolvimento de Sistemas na UNISAL e também faço curso no SENAI. Durante minha jornada, participei de projetos voltados para tecnologia social, como o desenvolvimento de um sistema de prontuário digital para lares de idosos e um projeto de Smart City para monitoramento de ambientes.
 Sou apaixonada por aprender e compartilhar conhecimento, buscando sempre crescer tanto na área de tecnologia quanto na vida pessoal e espiritual. 💙
@@ -12,6 +12,8 @@ Participo do Clube de Desbravadores, onde aprendi a importância do trabalho em 
         />
     </a>
 </p>
+
+## 🤖 Linguagens e Tecnologias
 
 <div
  style="display: flex; gap: 10px;"
