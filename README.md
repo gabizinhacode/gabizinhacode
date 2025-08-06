@@ -15,25 +15,7 @@ Participo do Clube de Desbravadores, onde aprendi a importância do trabalho em 
 
 ## 🤖 Linguagens e Tecnologias
 
-<div
- style="display: flex; gap: 10px;"
-/>
- <img
-     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    /> 
-<img
-    align="left" 
-    alt="css"
-    title="css"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-    />
+
  <img
      />
 <img
